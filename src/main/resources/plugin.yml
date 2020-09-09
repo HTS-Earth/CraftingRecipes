@@ -1,0 +1,6 @@
+name: CraftingRecipes
+version: ${project.version}
+main: htsearth.craftingrecipes.CraftingRecipes
+api-version: 1.13
+authors: [iChoob]
+description: New crafting recipes for the HTS Earth Minecraft server.
