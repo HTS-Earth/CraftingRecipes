@@ -2,4 +2,5 @@ main: htsearth.craftingrecipes.CraftingRecipes
 name: CraftingRecipes
 version: 1.0
 author: iChoob
+api-version: 1.16
 description: HTSEarth
