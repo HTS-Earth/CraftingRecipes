@@ -1,0 +1,5 @@
+main: htsearth.craftingrecipes.CraftingRecipes
+name: CraftingRecipes
+version: 1.0
+author: iChoob
+description: HTSEarth
